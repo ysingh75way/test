@@ -4,14 +4,14 @@
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-testing-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/TestingVideo10sec_01_12_25_09_48_51.vast]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
-  <vmap:AdBreak timeOffset="mid" breakType="linear" breakId="ad2">
+  <vmap:AdBreak timeOffset="50%" breakType="linear" breakId="ad2">
     <vmap:AdSource>
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-testing-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/TestingVideo10sec_01_12_25_09_46_47.vast]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="end" breakType="linear" breakId="ad3">
     <vmap:AdSource>
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-testing-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/TestingVideo10sec_01_12_25_09_47_50.vast]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-testing-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/TestingVideo10sec_01_12_25_09_48_51.vast]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
 </vmap:VMAP>
