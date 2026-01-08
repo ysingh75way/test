@@ -1,0 +1,17 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="end" breakType="linear" breakId="ad1">
+    <vmap:AdSource>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/StandardAd275way_04_12_25_10_52_12.vast]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="end" breakType="linear" breakId="ad2">
+    <vmap:AdSource>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/StandardAd175way_04_12_25_10_51_55.vast]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="end" breakType="linear" breakId="ad3">
+    <vmap:AdSource>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://over-tv-bucket.s3.ap-southeast-2.amazonaws.com/propaganda/Sequence09_04_12_25_10_55_24.vast]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+</vmap:VMAP>
